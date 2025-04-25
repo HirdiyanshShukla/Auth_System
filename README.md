@@ -1,2 +1,2 @@
 # Auth_System
-authentication system using react django and simplejwt
+authentication system api using django and simplejwt
